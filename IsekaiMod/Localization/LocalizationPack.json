@@ -1251,7 +1251,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "120英尺内的盟友的主手武器获得1次额外的{g|Encyclopedia:Attack}攻击{/g}， 速度+10加值，受到的攻击有50%的失手率。",
+      "zhCN": "120英尺内的盟友的主要武器获得1次额外的{g|Encyclopedia:Attack}攻击{/g}， 速度+10加值，受到的攻击有50%的失手率。",
       "esES": null
     },
     {
@@ -1262,7 +1262,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "120英尺内的盟友的主手武器获得1次额外的<b><color=#703565><link=\"Encyclopedia:Attack\">攻击</link></color></b>， 速度+10加值，受到的攻击有50%的失手率。",
+      "zhCN": "120英尺内的盟友的主要武器获得1次额外的<b><color=#703565><link=\"Encyclopedia:Attack\">攻击</link></color></b>， 速度+10加值，受到的攻击有50%的失手率。",
       "esES": null
     },
     {
@@ -1295,7 +1295,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "120英尺内的盟友的主手武器获得1次额外的<b><color=#703565><link=\"Encyclopedia:Attack\">攻击</link></color></b>， 速度+10加值，受到的攻击有50%的失手率。",
+      "zhCN": "120英尺内的盟友的主要武器获得1次额外的<b><color=#703565><link=\"Encyclopedia:Attack\">攻击</link></color></b>， 速度+10加值，受到的攻击有50%的失手率。",
       "esES": null
     },
     {
@@ -1526,7 +1526,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "你获得对所有元素（酸、冷、电、火和声波）的抗性，数值等于10 + 2倍你的人物等级。在为了克服{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时，你的物理攻击被视为邪恶阵营。",
+      "zhCN": "你获得对所有元素（酸、冷、电、火和声波）的抗性，数值等于10 + 2倍你的角色等级。在为了克服{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时，你的物理攻击被视为邪恶阵营。",
       "esES": null
     },
     {
@@ -2164,7 +2164,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达5级后，你能够凝聚你的引导能量在你周围形成一个保护层，使你抵抗元素伤害。",
       "esES": null
     },
     {
@@ -2175,7 +2175,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "能量凝结",
       "esES": null
     },
     {
@@ -2186,7 +2186,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对一种特定类型的能量免疫。",
       "esES": null
     },
     {
@@ -2197,7 +2197,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "能量免疫",
       "esES": null
     },
     {
@@ -2208,7 +2208,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对纠缠状态免疫。",
       "esES": null
     },
     {
@@ -2219,7 +2219,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫纠缠",
       "esES": null
     },
     {
@@ -2230,7 +2230,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "卓越专长是普通NPC所不具备的专场。\n来源：Isekai mod",
       "esES": null
     },
     {
@@ -2241,7 +2241,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "卓越专长",
       "esES": null
     },
     {
@@ -2252,7 +2252,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你的召唤物会随着等级的增加而变得更加强大。",
       "esES": null
     },
     {
@@ -2263,7 +2263,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "卓越召唤",
       "esES": null
     },
     {
@@ -2274,7 +2274,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你的主要和次要武器有额外的附魔。",
       "esES": null
     },
     {
@@ -2285,7 +2285,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "卓越武器",
       "esES": null
     },
     {
@@ -2296,7 +2296,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对力竭免疫。",
       "esES": null
     },
     {
@@ -2307,7 +2307,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫力竭",
       "esES": null
     },
     {
@@ -2318,7 +2318,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你擅长所有异种武器。",
       "esES": null
     },
     {
@@ -2329,7 +2329,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "异种武器擅长",
       "esES": null
     },
     {
@@ -2340,7 +2340,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你获得异种特殊威能。",
       "esES": null
     },
     {
@@ -2351,7 +2351,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "额外特殊威能",
       "esES": null
     },
     {
@@ -2362,7 +2362,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你会根据你的等级获得额外的攻击。达到5级及以后每5级（10、15、20级），你获得1次额外{g|Encyclopedia:Attack}攻击{/g}。这也适用于你的副手武器，如果你挥舞着第二把武器。",
       "esES": null
     },
     {
@@ -2373,7 +2373,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "额外打击",
       "esES": null
     },
     {
@@ -2384,7 +2384,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你40英尺范围内的盟友的{g|Encyclopedia:speed}速度{/g}获得{g|Encyclopedia:Bonus}加值{/g}，其数值等于你角色等级的5倍。",
       "esES": null
     },
     {
@@ -2395,7 +2395,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "极限速度",
       "esES": null
     },
     {
@@ -2406,7 +2406,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "此生物的{g|Encyclopedia:speed}速度{/g}获得{g|Encyclopedia:Bonus}加值{/g}",
       "esES": null
     },
     {
@@ -2417,7 +2417,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "攻击总是错过你。",
       "esES": null
     },
     {
@@ -2428,7 +2428,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "比光还快",
       "esES": null
     },
     {
@@ -2439,7 +2439,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对疲乏免疫。",
       "esES": null
     },
     {
@@ -2450,7 +2450,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫疲乏",
       "esES": null
     },
     {
@@ -2461,7 +2461,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对恐惧效果免疫",
       "esES": null
     },
     {
@@ -2472,7 +2472,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫恐惧",
       "esES": null
     },
     {
@@ -2483,7 +2483,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你的召唤生物有2次额外的攻击，并且速度获得+10的加值。同时获得每角色等级1d6的偷袭攻击。",
       "esES": null
     },
     {
@@ -2494,7 +2494,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "此生物有2次额外的攻击，并且速度获得+10的加值。同时获得每角色等级1d6的偷袭攻击。",
       "esES": null
     },
     {
@@ -2505,7 +2505,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "凶猛召唤",
       "esES": null
     },
     {
@@ -2516,7 +2516,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "还有什么比肉眼几乎跟不上的速度挥舞剑更酷的呢?\n以这样的速度挥动一把巨大的双手剑，看着你的敌人因你武器的庞大尺寸和挥舞它的速度而恐惧地奔跑。\n如果是一把精灵曲刃或锥剑就更好了，这样你就可以在上面叠加偷袭来获得一些真正的重击……",
       "esES": null
     },
     {
@@ -2527,7 +2527,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "战士外挂 - 双手武器战士",
       "esES": null
     },
     {
@@ -2538,7 +2538,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "当然其他人会因为你是基础的而取笑你。\n他们不明白的是，他们才是基础的，他们玩的是自动优化的构筑，只允许他们在每场战斗中使用什么特性时仅有有限的选择。\n你在每个级别都经过精心设计，以确保最佳的专场组合。\n他们完全没有意识到，你需要花费数小时的计划时间，只是为了确保在战斗来临的时候，你的攻击总是能造成最佳伤害，即使只是不断地把战锤砸向敌人的脸，。",
       "esES": null
     },
     {
@@ -2549,7 +2549,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "战士外挂 - 基础战士",
       "esES": null
     },
     {
@@ -2560,7 +2560,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你是守护你的团队的盾牌。有你可靠的盾牌在手，任何敌人都无法攻破你的防线。就让傻瓜试试吧……",
       "esES": null
     },
     {
@@ -2571,7 +2571,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "战士外挂 - 守护盾卫",
       "esES": null
     },
     {
@@ -2582,7 +2582,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对火焰免疫",
       "esES": null
     },
     {
@@ -2593,7 +2593,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫火焰",
       "esES": null
     },
     {
