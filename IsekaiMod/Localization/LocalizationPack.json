@@ -8,7 +8,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "异世界主人公",
       "esES": null
     },
     {
@@ -19,7 +19,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对强酸免疫。",
       "esES": null
     },
     {
@@ -30,7 +30,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫强酸",
       "esES": null
     },
     {
@@ -41,7 +41,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "管理员D是一个玩世不恭、自称做事只是为了娱乐的”终极邪恶神灵“。她是虐待狂，喜欢看主人公在新世界中为生存而挣扎，以自娱自乐。\n领域： 混乱， 邪恶， 知识， 死亡， 毁灭\n偏好武器： 镰刀",
       "esES": null
     },
     {
@@ -52,7 +52,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "管理员D",
       "esES": null
     },
     {
@@ -63,7 +63,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "获得御衡者的法术。",
       "esES": null
     },
     {
@@ -74,7 +74,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神话御衡者法术",
       "esES": null
     },
     {
@@ -85,7 +85,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "8级后，你的移动速度非常快，会给你的敌人留下残影。n你获得+10 {g|Encyclopedia：加值}加值{/g}到你的{g|Encyclopedia:Speed}速度{/g} 和任意 {g|Encyclopedia:Attack}攻击{/g}，针对你有10%的机会错过。",
       "esES": null
     },
     {
@@ -96,7 +96,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "残影",
       "esES": null
     },
     {
@@ -107,7 +107,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你变成了阿尔法。你的重击威胁会自动确认。",
       "esES": null
     },
     {
@@ -118,7 +118,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "阿尔法突袭",
       "esES": null
     },
     {
@@ -129,7 +129,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你发射出强烈的能量束，造成每角色等级{/g}{g|Encyclopedia:Dice}2d6{/g}点神圣{g|Encyclopedia:Damage}伤害{/g}。目标需要成功进行反射{g|Encyclopedia:Saving_Throw}豁免检定{/g}，否则会被击倒至俯卧状态。\n如果目标是邪恶生物，{g|Encyclopedia:Spell}法术{/g}改为造成每角色等级2d8点{g|Encyclopedia:Energy_Damage}神圣伤害{/g}。目标需要成功进行反射豁免检定，否则会被击倒至俯卧状态，并在{g|Encyclopedia:Armor_Class}AC{/g}、{g|Encyclopedia:Attack}攻击检定{/g}和豁免检定上承受-2{g|Encyclopedia:Penalty}减值{/g}。\n如果目标是邪恶异界生物或不死生物，法术改为造成每角色等级2d10点神圣伤害。目标需要成功进行反射豁免检定，否则会被击倒至俯卧状态，并在AC、攻击检定和豁免检定上承受-4减值。\n如果目标是一位恶魔领主，一头邪恶龙类或一位死灵之主（巫妖、死灵龙、夜影等强大的不死生物），法术改为造成每角色等级2d12点神圣伤害。目标在AC、攻击检定和豁免检定上承受-4减值。它还需要成功进行反射豁免检定，否则会被击倒至俯卧状态。",
       "esES": null
     },
     {
@@ -140,7 +140,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "天使之矢",
       "esES": null
     },
     {
@@ -151,7 +151,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你获得天使的法术",
       "esES": null
     },
     {
@@ -162,18 +162,18 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神话天使法术",
       "esES": null
     },
     {
       "Key": "3e26d7db2f1f42f0badb44f5d242b8d3",
       "SimpleName": "ArcanistBasicLegacy.Description",
       "ProcessTemplates": true,
-      "enGB": "Your otherworldy background allows you to  easily graps some of the exploits available within the laws of magic. \nThis allows you to shape the magic around you in specific ways that might  be similar to spells but are not quite spells.",
+      "enGB": "Your otherworldy background allows you to easily graps some of the exploits available within the laws of magic. \nThis allows you to shape the magic around you in specific ways that might  be similar to spells but are not quite spells.",
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你超凡脱俗的背景使你能够轻松掌握魔法法则中的一些可利用的漏洞。 \n这允许你以特定的方式塑造你周围的魔法，这些方式可能类似于法术但不完全是法术。",
       "esES": null
     },
     {
@@ -184,7 +184,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "奥术师外挂 - 奥术师",
       "esES": null
     },
     {
@@ -195,7 +195,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "TBD",
       "esES": null
     },
     {
@@ -206,7 +206,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "奥术师外挂 - 棕毛变化师",
       "esES": null
     },
     {
@@ -217,7 +217,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "奥能师外挂 - 魔源使",
       "esES": null
     },
     {
@@ -228,7 +228,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你在AC上获得等于力量调整值的天生防御加值。",
       "esES": null
     },
     {
@@ -239,7 +239,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "力量护甲",
       "esES": null
     },
     {
@@ -250,7 +250,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你可以在穿甲时保持正常移速。同时，你的护甲检定减值变为0，最大敏捷加值提升至20。",
       "esES": null
     },
     {
@@ -261,7 +261,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "铠圣",
       "esES": null
     },
     {
@@ -272,7 +272,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达10级后，你可以选择一种灵光。",
       "esES": null
     },
     {
@@ -283,7 +283,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "每当你施展一个法术时，它会变得激励，如同使用了“法术激励”专长。",
       "esES": null
     },
     {
@@ -294,7 +294,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模能力 — 自动激励",
       "esES": null
     },
     {
@@ -305,7 +305,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "每当你施展一个法术时，它会变得强效，如同使用了“法术强效”专长。",
       "esES": null
     },
     {
@@ -316,7 +316,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模能力 — 自动强效",
       "esES": null
     },
     {
@@ -327,7 +327,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN":"每当你施展一个法术时，它会被延时，如同使用了“法术延时”专长。",
       "esES": null
     },
     {
@@ -338,7 +338,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模能力 — 自动延时",
       "esES": null
     },
     {
@@ -349,7 +349,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "每当你施展一个法术时，它会被极效，如同使用了“法术极效”专长。",
       "esES": null
     },
     {
@@ -360,7 +360,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模能力 — 自动极效",
       "esES": null
     },
     {
@@ -371,7 +371,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你获得自动作用于你法术的强大超模效果。",
       "esES": null
     },
     {
@@ -382,7 +382,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "自动超魔",
       "esES": null
     },
     {
@@ -393,7 +393,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "每当你施展一个法术时，它会被瞬发，如同使用了“法术瞬发”专长。",
       "esES": null
     },
     {
@@ -404,7 +404,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模能力 — 自动瞬发",
       "esES": null
     },
     {
@@ -415,7 +415,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "每当你施展一个法术时，它的距离会上升一个距离类型，如同使用了“法术增距”专长。",
       "esES": null
     },
     {
@@ -426,7 +426,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模能力 — 自动增距",
       "esES": null
     },
     {
@@ -437,7 +437,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "每当你施展一个法术时，你可以从法术效果中排除目标，如同使用了“法术甄选”专长。",
       "esES": null
     },
     {
@@ -448,7 +448,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模能力 — 自动甄选",
       "esES": null
     },
     {
@@ -459,7 +459,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你获得灵使的法术",
       "esES": null
     },
     {
@@ -470,7 +470,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神话灵使法术",
       "esES": null
     },
     {
@@ -481,7 +481,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "封弊者在先攻检定上获得+4加值，并将{g|Encyclopedia:Lore_Nature}学识（自然）{/g}, {g|Encyclopedia:Lore_Religion}学识（宗教）{/g}, {g|Encyclopedia:Knowledge_World}学识（世界）{/g}, {g|Encyclopedia:Knowledge_Arcana}学识（神秘）{/g}, 和{g|Encyclopedia:Perception}察觉{/g}加入本职技能列表。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -492,7 +492,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "封弊者",
       "esES": null
     },
     {
@@ -503,7 +503,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "鬼道将运动和灵巧加入本职技能列表，并在进行运动和灵巧检定时使用力量和敏捷中的较高者。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -514,7 +514,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "鬼道",
       "esES": null
     },
     {
@@ -525,7 +525,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "贤者将{g|Encyclopedia:Lore_Nature}学识（自然）{/g}, {g|Encyclopedia:Lore_Religion}学识（宗教）{/g}, {g|Encyclopedia:Knowledge_World}学识（世界）{/g}, {g|Encyclopedia:Knowledge_Arcana}学识（神秘）{/g}, and {g|Encyclopedia:Perception}察觉{/g} 加入本职{g|Encyclopedia:Skills}技能{/g}列表，并且在进行学识（世界）、学识（神秘）、学识（宗教）或学识（自然） {g|Encyclopedia:Check}检定{/g}时使用智力和感知中的较高者。 \n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -536,7 +536,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "贤者",
       "esES": null
     },
     {
@@ -547,7 +547,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "玩家在所有知识、学识和察觉检定上获得+8内在加值。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -558,7 +558,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "玩家",
       "esES": null
     },
     {
@@ -569,7 +569,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "高中生在所有属性上获得+1加值。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -580,7 +580,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "高中生",
       "esES": null
     },
     {
@@ -591,7 +591,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "武道家擅长所有异种武器。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -602,7 +602,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "武道家",
       "esES": null
     },
     {
@@ -613,7 +613,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "音乐家将沟通加入本职技能列表，并且在音波法术的施法者等级和DC上获得+2加值。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -624,7 +624,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "音乐家",
       "esES": null
     },
     {
@@ -635,7 +635,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "御宅族将沟通以外的所有技能加入本职技能列表。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -646,7 +646,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "御宅族",
       "esES": null
     },
     {
@@ -657,7 +657,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "幻想杀手免疫所有需要通过{g|Encyclopedia:Spell_Resistance}spell resistance{/g}的{g|Encyclopedia:Spell}法术{/g}或{g|Encyclopedia:Special_Abilities}类法术能力{/g}，但自身无法施展法术。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -668,7 +668,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "幻想杀手",
       "esES": null
     },
     {
@@ -679,7 +679,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "魔王转生在力量上获得+2加值，并拥有20电击抗力。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -690,7 +690,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "转生魔王",
       "esES": null
     },
     {
@@ -701,7 +701,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "社畜将察觉加入到加入本职技能列表。她也在尝试使用察觉检定时，使用魅力属性代替感知属性。\n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -712,7 +712,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "社畜",
       "esES": null
     },
     {
@@ -723,7 +723,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "桌面RPG将{g|Encyclopedia:Lore_Nature}学识（自然）{/g}, {g|Encyclopedia:Lore_Religion}学识（宗教）{/g}, {g|Encyclopedia:Knowledge_World}学识（世界）{/g}, {g|Encyclopedia:Knowledge_Arcana}学识（神秘）{/g}, and {g|Encyclopedia:Perception}察觉{/g} 加入本职{g|Encyclopedia:Skills}技能{/g}列表，并且在进行学识（世界）、学识（神秘）、学识（宗教）或学识（自然） {g|Encyclopedia:Check}检定{/g}时，使用魅力属性代替智力或感知属性。 \n如果角色已在角色创建过程中，通过职业获取了上述本职技能，{g|Encyclopedia:Weapon_Proficiency}武器擅长{/g}或防具擅长，则背景提供的相应加值改为相关技能上的+1表现加值，相关武器上的+1增强加值，相关防具上的防具检定{g|Encyclopedia:Penalty}减值{/g}-1。",
       "esES": null
     },
     {
@@ -734,7 +734,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "桌面RPG玩家",
       "esES": null
     },
     {
@@ -745,7 +745,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你真的只是一堆行走的问题，任何人离得太近就会爆炸，不是吗？",
       "esES": null
     },
     {
@@ -756,7 +756,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "野蛮人外挂 - 火药桶",
       "esES": null
     },
     {
@@ -767,7 +767,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你知道有什么比做大英雄更能凝聚大后宫的？ \n没错，音乐是浪漫的语言，所以很多男人讨厌吟游诗人是有原因的...",
       "esES": null
     },
     {
@@ -778,7 +778,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "吟游诗人外挂 - 音乐奇才",
       "esES": null
     },
     {
@@ -789,7 +789,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达7级后，你可以引导你的能量形成一个坚固的屏障来保护盟友免受物理和魔法攻击。",
       "esES": null
     },
     {
@@ -800,7 +800,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "能量屏障",
       "esES": null
     },
     {
@@ -811,7 +811,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达12级后，你和你的同伴在一大片水域旁短暂休息。在此期间，你开始了自我发现之旅。",
       "esES": null
     },
     {
@@ -822,7 +822,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "泳装回",
       "esES": null
     },
     {
@@ -833,7 +833,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你获得每{g|Encyclopedia:Combat_Round}轮{/g}一次额外{g|Encyclopedia:Attack}攻击{/g}，但是在伤害检定上受到-4减值。",
       "esES": null
     },
     {
@@ -844,7 +844,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "贝塔打击",
       "esES": null
     },
     {
@@ -855,7 +855,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "飞翼（黑色）",
       "esES": null
     },
     {
@@ -866,7 +866,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对流血免疫。",
       "esES": null
     },
     {
@@ -877,7 +877,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫流血",
       "esES": null
     },
     {
@@ -888,7 +888,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "见证天使的祝福。",
       "esES": null
     },
     {
@@ -899,7 +899,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "天使神话职业特性",
       "esES": null
     },
     {
@@ -910,7 +910,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "让我给你看些好玩的！",
       "esES": null
     },
     {
@@ -921,7 +921,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "灵使神话职业特性",
       "esES": null
     },
     {
@@ -932,7 +932,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "啥？\n一群从未伤人害命的不死生物……",
       "esES": null
     },
     {
@@ -943,7 +943,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "巫妖神话职业特性",
       "esES": null
     },
     {
@@ -954,7 +954,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "因为我是天使，就不能施展恶魔法术？\n或者让我放弃诡术大师的美妙能力？\n你们这些御衡者也太不灵活了。\n说道永恒者，你们也有很棒的法术，不是吗？\n让我快速学习他们……\n来源：Isekai Mod",
       "esES": null
     },
     {
@@ -965,7 +965,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神话职业特性",
       "esES": null
     },
     {
@@ -976,7 +976,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "一些诡术大师的小小震撼。",
       "esES": null
     },
     {
@@ -987,7 +987,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "诡术大师神话职业特性",
       "esES": null
     },
     {
@@ -998,7 +998,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对目盲免疫。",
       "esES": null
     },
     {
@@ -1009,7 +1009,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫目盲",
       "esES": null
     },
     {
@@ -1020,7 +1020,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "就像奇美拉一样，你汲取了非人血统的力量，并学会了如何慢慢地唤醒或将更多的血统融入你自己。 \n然而，你宁愿用它来增强你的近战攻击而不是你的法术。\n毕竟，如果你只用它们作为后备，龙爪或凤凰的燃烧双翼又有什么意义呢？",
       "esES": null
     },
     {
@@ -1031,7 +1031,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "血怒者外挂 - 奇美拉嵌合狂暴者",
       "esES": null
     },
     {
@@ -1042,7 +1042,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达10级后，你得到改变周围人的身体和心灵的能力。",
       "esES": null
     },
     {
@@ -1053,7 +1053,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "身心改变",
       "esES": null
     },
     {
@@ -1064,7 +1064,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你获得等于你角色等级的{g|Encyclopedia:Damage_Reduction}伤害减免{/g}",
       "esES": null
     },
     {
@@ -1075,7 +1075,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "强身健体",
       "esES": null
     },
     {
@@ -1086,7 +1086,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你冲锋进了敌人的深处，但无论你周围的混乱有多混乱，你永远不会忘记你的团队。\n毕竟，当你和你的团队被四面八方的敌人包围时，团队合作才是最重要的。",
       "esES": null
     },
     {
@@ -1097,7 +1097,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "骑将外挂 - 前线领袖",
       "esES": null
     },
     {
@@ -1108,7 +1108,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "护盾阻挡不了魔法是什么意思？\n嗯，我也可以让我的盾牌阻挡魔法，如果你做得不够好，不要怪我……",
       "esES": null
     },
     {
@@ -1119,7 +1119,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "骑将外挂 - 魔法护盾",
       "esES": null
     },
     {
@@ -1130,7 +1130,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "有些人在前面领导，但当你可以冲在前面时，你更喜欢在后面领导。毕竟后防线给了你一个更好的战略位置来评估阵型中的问题在哪里。\n而且，在你的内心深处，你是一个施法者，所以你为什么要冲进敌人的深处呢?",
       "esES": null
     },
     {
@@ -1141,7 +1141,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "骑兵外挂 - 后防领袖",
       "esES": null
     },
     {
@@ -1152,7 +1152,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你40英尺范围内的盟友将伤害类型变为神圣。",
       "esES": null
     },
     {
@@ -1163,7 +1163,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "天界领域",
       "esES": null
     },
     {
@@ -1174,7 +1174,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "这个角色将他们的伤害类型变成神圣。",
       "esES": null
     },
     {
@@ -1185,7 +1185,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "在你120英尺范围内的混乱盟友有2次额外攻击并造成额外2d6物理伤害。",
       "esES": null
     },
     {
@@ -1196,7 +1196,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模灵光 — 混乱狂乱",
       "esES": null
     },
     {
@@ -1207,7 +1207,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "此角色有两次额外攻击并造成额外2d6物理伤害。",
       "esES": null
     },
     {
@@ -1218,7 +1218,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "混乱狂乱灵光",
       "esES": null
     },
     {
@@ -1229,7 +1229,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对魅惑免疫。",
       "esES": null
     },
     {
@@ -1240,7 +1240,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫魅惑",
       "esES": null
     },
     {
@@ -1251,7 +1251,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "120英尺内的盟友的主手武器获得1次额外的{g|Encyclopedia:Attack}攻击{/g}， 速度+10加值，受到的攻击有50%的失手率。",
       "esES": null
     },
     {
@@ -1262,7 +1262,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "120英尺内的盟友的主手武器获得1次额外的<b><color=#703565><link=\"Encyclopedia:Attack\">攻击</link></color></b>， 速度+10加值，受到的攻击有50%的失手率。",
       "esES": null
     },
     {
@@ -1273,7 +1273,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "此角色的主武器有1个额外的{g|Encyclopedia:Attack}攻击{/g}，速度+10加值，受到的攻击有50%的失手率。",
       "esES": null
     },
     {
@@ -1284,7 +1284,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "中二病具现",
       "esES": null
     },
     {
@@ -1295,7 +1295,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "120英尺内的盟友的主手武器获得1次额外的<b><color=#703565><link=\"Encyclopedia:Attack\">攻击</link></color></b>， 速度+10加值，受到的攻击有50%的失手率。",
       "esES": null
     },
     {
@@ -1306,7 +1306,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对寒冷免疫。",
       "esES": null
     },
     {
@@ -1317,7 +1317,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫寒冷",
       "esES": null
     },
     {
@@ -1328,7 +1328,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对胁迫效果免疫。",
       "esES": null
     },
     {
@@ -1339,7 +1339,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫胁迫",
       "esES": null
     },
     {
@@ -1350,7 +1350,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对困惑免疫。",
       "esES": null
     },
     {
@@ -1361,7 +1361,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫困惑",
       "esES": null
     },
     {
@@ -1372,7 +1372,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你的攻击具有酸蚀性。它们造成额外的1d6强酸伤害。",
       "esES": null
     },
     {
@@ -1383,7 +1383,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "酸蚀武器",
       "esES": null
     },
     {
@@ -1394,7 +1394,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "骨傲天40英尺范围内的盟友在攻击、伤害、AC和豁免检定上有+4亵渎加值。他们的攻击在克服{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时视作邪恶。",
       "esES": null
     },
     {
@@ -1405,7 +1405,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "腐败灵光",
       "esES": null
     },
     {
@@ -1416,7 +1416,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "此角色在攻击、伤害、AC和豁免检定上有+4亵渎加值。他们的攻击在克服{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时视作邪恶。",
       "esES": null
     },
     {
@@ -1427,7 +1427,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对畏缩免疫。",
       "esES": null
     },
     {
@@ -1438,7 +1438,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫畏缩",
       "esES": null
     },
     {
@@ -1449,7 +1449,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对重击免疫。",
       "esES": null
     },
     {
@@ -1460,7 +1460,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫重击",
       "esES": null
     },
     {
@@ -1471,7 +1471,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对诅咒免疫。",
       "esES": null
     },
     {
@@ -1482,7 +1482,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫诅咒",
       "esES": null
     },
     {
@@ -1493,7 +1493,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你散发出一种漆黑的灵光，使敌人变得不安和脆弱。\n40英尺内的敌人在AC和豁免检定上受到-4的减值。",
       "esES": null
     },
     {
@@ -1504,7 +1504,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "黑暗灵光",
       "esES": null
     },
     {
@@ -1515,7 +1515,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "这个生物在AC和豁免检定上受到-4的减值。",
       "esES": null
     },
     {
@@ -1526,7 +1526,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你获得对所有元素（酸、冷、电、火和声波）的抗性，数值等于10 + 2倍你的人物等级。在为了克服{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时，你的物理攻击被视为邪恶阵营。",
       "esES": null
     },
     {
@@ -1537,7 +1537,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "黑暗能量凝结",
       "esES": null
     },
     {
@@ -1548,7 +1548,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对晕眩免疫。",
       "esES": null
     },
     {
@@ -1559,7 +1559,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫晕眩",
       "esES": null
     },
     {
@@ -1570,7 +1570,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对目眩免疫。",
       "esES": null
     },
     {
@@ -1581,7 +1581,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫目眩",
       "esES": null
     },
     {
@@ -1592,7 +1592,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对死亡效果免疫。",
       "esES": null
     },
     {
@@ -1603,7 +1603,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫死亡",
       "esES": null
     },
     {
@@ -1614,7 +1614,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达10级后，死亡掠夺者每天可额外获得2次“操纵死尸”的使用次数。",
       "esES": null
     },
     {
@@ -1625,7 +1625,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "操纵死尸 — 额外使用次数",
       "esES": null
     },
     {
@@ -1636,7 +1636,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达7级后，死亡掠夺者获得每天三次的”操纵死尸“作为类法术能力。",
       "esES": null
     },
     {
@@ -1647,7 +1647,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "这只两足直立的豺狼有着秃鹫般的翅膀和老鼠般的尾巴，尾巴末端是蝎子般的毒刺，而它的那四只胳膊更是各长着一只爪子。",
       "esES": null
     },
     {
@@ -1658,7 +1658,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者",
       "esES": null
     },
     {
@@ -1669,7 +1669,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达1级后，死亡掠夺者获得每天10次的“命令死灵”作为类法术能力。",
       "esES": null
     },
     {
@@ -1680,7 +1680,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达13级后，死亡掠夺者获得每天1次的“唤起死灵”作为类法术能力。",
       "esES": null
     },
     {
@@ -1691,7 +1691,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "具有快速回复特殊能力的生物会以惊人的速度回复生命值。就算失去意识或生命值低于0点，只要生物还存活，快速回复就会持续生效。若生物死亡，快速回复效果便会立刻终止。",
       "esES": null
     },
     {
@@ -1702,7 +1702,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "快速回复10",
       "esES": null
     },
     {
@@ -1713,7 +1713,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者居住在堕落文明的废墟中，在那里他们扮演被不死奴隶崇拜的神灵。尽管自我膨胀，但众所周知，死亡掠夺者向黑暗、沙漠和不死族的各种恶魔领主致敬(并声称自己是他们的后裔)。\n{g|Encyclopedia:Size}大小{/g}:微小\n{g|Encyclopedia:Speed}速度{/g}: 30英尺\n{g|Encyclopedia:Armor_Class}AC{/g}: +10天生防御\n{g|Encyclopedia:Attack}攻击{/g}: 1啮咬({g|Encyclopedia:Dice}2d6{/g})， 4爪抓(1d6)， 1钉刺(1d4)\n{g|Encyclopedia:Ability_Scores}属性值{/g}:{g|Encyclopedia:Strength}力量{/g}17，{g|Encyclopedia:Dexterity}敏捷{/g}25， {g|Encyclopedia:Constitution}体质{/g}28， {g|Encyclopedia:Intelligence}智力{/g} 16， {g|Encyclopedia:Wisdom}感知{/g} 21， {g|Encyclopedia:Charisma}魅力{/g} 24\n在4级大小变为中型，力量+6, 敏捷-4, 体质+4， +6天生防御，获得猛扑。",
       "esES": null
     },
     {
@@ -1724,7 +1724,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达16级后，死亡掠夺者获得每天1次的“死亡一指”作为类法术能力。",
       "esES": null
     },
     {
@@ -1735,7 +1735,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者拥有+16天生防御加值。",
       "esES": null
     },
     {
@@ -1746,7 +1746,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者护甲",
       "esES": null
     },
     {
@@ -1757,7 +1757,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者的钉刺攻击变得充满毒素，如果敌人在DC28的强韧豁免中失败，会受到1d4的体质伤害。",
       "esES": null
     },
     {
@@ -1768,7 +1768,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者的剧毒钉刺",
       "esES": null
     },
     {
@@ -1779,7 +1779,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者对负能量和死亡效果免疫，并拥有30点寒冷和火焰抗性。它也拥有10+死亡掠夺者等级的法术抗力。",
       "esES": null
     },
     {
@@ -1790,7 +1790,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者抗性",
       "esES": null
     },
     {
@@ -1801,7 +1801,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者在4级时得到成长。当这种情况发生时，死亡掠夺者的AC天生防御加值上升6，获得以下的属性值修正：力量+6，敏捷-4，体质+4。",
       "esES": null
     },
     {
@@ -1812,7 +1812,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "死亡掠夺者幼体",
       "esES": null
     },
     {
@@ -1823,7 +1823,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达20级后，死亡掠夺者成为亡灵大师。\n命令死灵的没有次数限制。\n操纵死尸没有次数限制。\n唤起死灵额外每天2次。\n死亡一指额外每天2次。",
       "esES": null
     },
     {
@@ -1834,7 +1834,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "亡灵大师",
       "esES": null
     },
     {
@@ -1845,7 +1845,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "获得恶魔的法术。",
       "esES": null
     },
     {
@@ -1856,7 +1856,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神话恶魔法术",
       "esES": null
     },
     {
@@ -1867,7 +1867,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "飞翼（恶魔）",
       "esES": null
     },
     {
@@ -1878,7 +1878,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "每天一次，当你的{g|Encyclopedia:HP}HP{/g}降至0时，你的生命值将恢复到满值。40英尺内的盟友会恢复到满血状态，而敌人会立即死亡。",
       "esES": null
     },
     {
@@ -1889,7 +1889,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "机械降神",
       "esES": null
     },
     {
@@ -1900,7 +1900,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "飞翼（魔鬼）",
       "esES": null
     },
     {
@@ -1911,7 +1911,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "飞翼",
       "esES": null
     },
     {
@@ -1922,7 +1922,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对疾病免疫。",
       "esES": null
     },
     {
@@ -1933,7 +1933,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫疾病",
       "esES": null
     },
     {
@@ -1944,7 +1944,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你散发出一种神性灵光，使敌人被自身的无用感的感觉所征服。\n40英尺内的敌人在所有属性上受到-4减值。",
       "esES": null
     },
     {
@@ -1955,7 +1955,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神力灵光",
       "esES": null
     },
     {
@@ -1966,7 +1966,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "这个生物在所有属性上受到-4减值。",
       "esES": null
     },
     {
@@ -1977,7 +1977,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "作为一个迅捷动作，你可以在你的武器上涂上一种特殊的卓尔毒药。被此剧毒武器击中的敌人需要进行强韧豁免，否则昏迷1分钟。这个强韧豁免等于10+你的角色等级+你的智力调整值。",
       "esES": null
     },
     {
@@ -1988,7 +1988,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "卓尔毒药使他们的目标在强韧检定失败时失去意识。",
       "esES": null
     },
     {
@@ -1999,7 +1999,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "卓尔毒药",
       "esES": null
     },
     {
@@ -2010,7 +2010,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "在你的前世，你是一个自然爱好者，但你生活在一个污染和拥挤的城市，扼杀了你与自然世界的联系。你梦想着逃到一个可以自由自在的地方，有一天你实现了你的愿望。你已经转世到一个自然丰富多样的世界，你已经学会了如何挖掘它的原始魔力。你可以施放操纵元素的法术，召唤生物，增强你自己的能力。你是大自然的保护者，是所有生命的朋友。",
       "esES": null
     },
     {
@@ -2021,7 +2021,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "德鲁伊外挂 - 自然法师",
       "esES": null
     },
     {
@@ -2032,7 +2032,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "在这个新世界里，你将拥有无限的财富。\n增益：作为一个标准动作，你获得100万金币。",
       "esES": null
     },
     {
@@ -2043,7 +2043,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "超模能力 - 刷钱",
       "esES": null
     },
     {
@@ -2054,7 +2054,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "在转世到葛拉利昂后，一些主人公会用他们新发现的能力让自己看起来又酷又时髦。他们的攻击变得华丽和无数，移动得如此之快，以至于配角们连看到残像都算幸运的了。",
       "esES": null
     },
     {
@@ -2065,7 +2065,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "装逼犯",
       "esES": null
     },
     {
@@ -2076,7 +2076,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "真正的炫酷和时髦得是万众瞩目的焦点才行……",
       "esES": null
     },
     {
@@ -2087,7 +2087,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "装逼外挂",
       "esES": null
     },
     {
@@ -2098,7 +2098,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "装逼犯擅长所有简易武器、军用武器和异种武器，以及轻型和中型盔甲。他们可以穿甲施放这个职业的{g|Encyclopedia:Spell}法术{/g}，而不会产生正常的{g|Encyclopedia:Spell_Fail_Chance}奥术法术失败几率{/g}，但从其他职业获得的奥术法术会产生正常的奥术法术失败几率。",
       "esES": null
     },
     {
@@ -2109,7 +2109,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "装逼犯擅长",
       "esES": null
     },
     {
@@ -2120,7 +2120,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对特定的状态或效果免疫。",
       "esES": null
     },
     {
@@ -2131,7 +2131,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "效果免疫",
       "esES": null
     },
     {
@@ -2142,7 +2142,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对电击免疫。",
       "esES": null
     },
     {
@@ -2153,7 +2153,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫电击",
       "esES": null
     },
     {
@@ -2846,7 +2846,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神皇",
       "esES": null
     },
     {
@@ -2857,7 +2857,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "金闪闪灵光",
       "esES": null
     },
     {
@@ -2868,7 +2868,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "达到3级后，神皇可以选择引导正能量或负能量。",
       "esES": null
     },
     {
@@ -2879,7 +2879,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "引导能量",
       "esES": null
     },
     {
@@ -2890,7 +2890,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你不断增加的神圣力量也表现为以下来自次等职业的特性。",
       "esES": null
     },
     {
@@ -2901,7 +2901,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神力外挂",
       "esES": null
     },
     {
@@ -3220,7 +3220,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "勇者",
       "esES": null
     },
     {
@@ -3231,7 +3231,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "勇者灵光",
       "esES": null
     },
     {
@@ -5046,7 +5046,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "黑幕",
       "esES": null
     },
     {
@@ -5552,7 +5552,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "骨傲天",
       "esES": null
     },
     {
