@@ -2406,7 +2406,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "此生物的{g|Encyclopedia:speed}速度{/g}获得{g|Encyclopedia:Bonus}加值{/g}",
+      "zhCN": "该生物的{g|Encyclopedia:speed}速度{/g}获得{g|Encyclopedia:Bonus}加值{/g}",
       "esES": null
     },
     {
@@ -2494,7 +2494,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "此生物有2次额外的攻击，并且速度获得+10的加值。同时获得每角色等级1d6的偷袭攻击。",
+      "zhCN": "该生物有2次额外的攻击，并且速度获得+10的加值。同时获得每角色等级1d6的偷袭攻击。",
       "esES": null
     },
     {
@@ -2604,7 +2604,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你的攻击具有火焰。它们额外造成1d6火焰伤害。",
       "esES": null
     },
     {
@@ -2615,7 +2615,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "炽焰武器",
       "esES": null
     },
     {
@@ -2626,7 +2626,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你的召唤物的生命值获得每等级获得+10加值，属性获得每等级获得+1加值。",
       "esES": null
     },
     {
@@ -2637,7 +2637,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "该生物的生命值获得每等级获得+10加值，属性获得每等级获得+1加值。",
       "esES": null
     },
     {
@@ -2648,7 +2648,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "禁忌召唤",
       "esES": null
     },
     {
@@ -2659,7 +2659,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你散发出一种友谊的灵光，让敌人下意识地后退。40英尺内的敌人在攻击和伤害检定中受到-4的惩罚。",
       "esES": null
     },
     {
@@ -2670,7 +2670,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "友谊灵光",
       "esES": null
     },
     {
@@ -2681,7 +2681,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "该生物在攻击上受到-4减值。",
       "esES": null
     },
     {
@@ -2692,7 +2692,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你对惊惧状态免疫。",
       "esES": null
     },
     {
@@ -2703,7 +2703,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "免疫惊惧",
       "esES": null
     },
     {
@@ -2714,7 +2714,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你的攻击带有寒霜。它们额外造成1d6寒冷伤害。",
       "esES": null
     },
     {
@@ -2725,7 +2725,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "寒霜武器",
       "esES": null
     },
     {
@@ -2736,7 +2736,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你的攻击无可阻挡，在克服{g|Encyclopedia:Damage_Reduction}伤害减免{/g}时视作精金。",
       "esES": null
     },
     {
@@ -2747,7 +2747,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "伽马打击",
       "esES": null
     },
     {
@@ -2758,7 +2758,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "飞翼（幽魂）",
       "esES": null
     },
     {
@@ -2769,7 +2769,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "你是一个真正的天才，每个行动都是你千年计划中精心策划的一步。\n你的所有技能都获得+4的熟练加值，同时你总是选择两次d20掷骰中的较高值。",
       "esES": null
     },
     {
@@ -2780,7 +2780,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "才华",
       "esES": null
     },
     {
@@ -2791,7 +2791,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "阿库娅是水之女神，引导人类穿越死后世界，并监督人类在其他世界的转生。她是一个极其有用的女神，以至于她在另一个世界还兼职了多个工作。作为一个常常哭泣的女神，据说她的眼泪能够净化最污浊的水域，甚至能够拯救最可怜的不死生物。\n领域：水、医疗、善良、保护\n偏好武器：长棍",
       "esES": null
     },
     {
@@ -2802,7 +2802,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "阿库娅",
       "esES": null
     },
     {
@@ -2824,7 +2824,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "莉丝妲黛是治疗女神，她帮助转世的勇者们在他们的新世界打败魔王。虽然莉丝妲黛的治疗能力和普通草药差不多，但她善良和关怀的微笑提供了更大的情感治疗。\n领域:治疗，善良，旅行，运气\n偏好武器:长剑",
       "esES": null
     },
     {
@@ -2835,7 +2835,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "比起漫无目的地游荡，收集后宫，或者打败魔王，一些主人公决定成为神。他们牺牲自己的特殊力量来获得强大的光环和通往神性的旅程。",
       "esES": null
     },
     {
@@ -2857,7 +2857,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": "金闪闪灵光",
+      "zhCN": "王霸灵光",
       "esES": null
     },
     {
@@ -2912,7 +2912,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神皇擅长所有简易、军用和异种武器，以及所有盔甲(重型、轻型和中型)和盾牌(包括塔盾)。他们可以在穿着护甲和护盾(包括塔盾)的情况下，从这个职业施放{g|Encyclopedia:Spell}法术{/g}，而不会产生正常的{g|Encyclopedia:Spell_Fail_Chance}奥术法术失败几率{/g}，但从其他职业获得的奥术法术会产生正常的奥术法术失败几率。",
       "esES": null
     },
     {
@@ -2923,7 +2923,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神皇擅长",
       "esES": null
     },
     {
@@ -2934,7 +2934,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "在15级时，你的{g|Encyclopedia:Initiative}先攻{/g}{g|Encyclopedia:Check}检定{/g}获得等于你的{g|Encyclopedia:Wisdom}感知{/g}调整值的{g|Encyclopedia:Bonus}加值{/g}。",
       "esES": null
     },
     {
@@ -2945,7 +2945,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神皇",
       "esES": null
     },
     {
@@ -2956,7 +2956,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达20级后，你超越了这个物质实相的极限。你免疫所有法术和{g|Encyclopedia:Physical_Damage}物理伤害{/g}。你的攻击忽略银臂和减伤。你的法术忽略法术抵抗和法术免疫。”",
       "esES": null
     },
     {
@@ -2967,7 +2967,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神格",
       "esES": null
     },
     {
@@ -2978,7 +2978,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "到达17级后，神皇对所有元素免疫（强酸，寒冷，电击，火焰和音波）。",
       "esES": null
     },
     {
@@ -2989,7 +2989,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "神躯",
       "esES": null
     },
     {
@@ -3000,7 +3000,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "距离你40英尺内的盟友在AC和豁免检定上获得相当于你角色等级1/2的神圣加值。",
       "esES": null
     },
     {
@@ -3011,7 +3011,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "该角色在AC和豁免检定上获得相当于你角色等级1/2的神圣加值。",
       "esES": null
     },
     {
@@ -3022,7 +3022,7 @@
       "ruRU": null,
       "deDE": null,
       "frFR": null,
-      "zhCN": null,
+      "zhCN": "黄金屏障",
       "esES": null
     },
     {
